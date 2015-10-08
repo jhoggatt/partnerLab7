@@ -73,8 +73,8 @@ while (True):
             print "Product: ", mult(a, b)
         elif (op == "/"):
             print "Quotient: ", div(a, b)
-		elif (op == "%"):
-			print "Mod: " mod(a, b)
+        elif (op == "%"):
+            print "Mod: ", mod(a, b)
         else:
             print "Invalid operation..."
 
